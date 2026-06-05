@@ -7,7 +7,7 @@ export default function Navbar() {
           alt="Logo" 
           className="lg:w-10 lg:h-10 w-10  object-contain"
         />
-        <span className="font-bold text-2xl lg:text-3xl py-2 p-2" > 
+        <span className="font-bold text-xl lg:text-3xl py-2 p-2" > 
         Kalurahan Pundungsari</span>
       </div>
 
