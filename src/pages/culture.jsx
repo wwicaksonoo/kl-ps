@@ -13,9 +13,9 @@ export default function Culture() {
       <div className="mt-12 max-w-5xl mx-auto">
         <div className="bg-white shadow-xl rounded-2xl p-6 md:p-10 ">
 
-          <h2 className="text-2xl md:text-3xl font-bold text-teal-800 mb-4">
+          <h1 className="text-2xl md:text-3xl font-bold text-teal-800 mb-4">
             Rasulan
-          </h2>
+          </h1>
 
           <p className="text-gray-700 leading-relaxed text-justify mb-4">
             <span className="font-semibold">Rasulan</span> adalah salah satu
@@ -52,8 +52,33 @@ export default function Culture() {
           </div>
         </div>
       </div>
+      <div className="mt-12 max-w-5xl mx-auto">
+        <div className="bg-white shadow-xl rounded-2xl p-6 md:p-10 ">
 
-      {/* FOOTER CALL */}
+          <h1 className="text-2xl md:text-3xl font-bold text-teal-800 mb-4">
+            Yasinan Malam Jumat
+          </h1>
+
+          <p className="text-gray-700 leading-relaxed text-justify mb-4">
+            <span className="font-semibold">Yasinan</span> adalah salah satu
+            Budaya di Gunungkidul adalah tradisi kuat yang menggabungkan ibadah (membaca Surah Yasin, tahlil, doa) dengan penguatan sosial, dilakukan rutin secara bergilir di rumah warga (terutama bapak-bapak) untuk mendoakan leluhur, mempererat silaturahmi, meningkatkan keimanan, serta melestarikan kearifan lokal dengan nilai kebersamaan, sopan santun, dan solidaritas komunitas, seringkali diakhiri dengan diskusi dan makan bersama. 
+          </p>
+
+
+  
+
+          
+          <div className="mt-8">
+            <img
+              src="/6.jpg"
+              alt="Gambar Tradisi Rasulan"
+              className="rounded-xl shadow-md w-full object-cover max-h-[500px]"
+            />
+          </div>
+        </div>
+      </div>
+
+      
       <div className="text-center mt-12 opacity-80 text-sm">
         <p>Lestarikan budaya ini agar tetap lestari dan dikenal banyak orang.</p>
       </div>

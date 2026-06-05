@@ -54,7 +54,7 @@ export default function TogaPage() {
         </p>
       </div>
 
-      {/* PLANT LIST */}
+     
       <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
         {plants.map((p, i) => (
           <div
@@ -78,7 +78,7 @@ export default function TogaPage() {
         ))}
       </div>
 
-      {/* FOOTER */}
+     
       <div className="text-center mt-14 opacity-80 text-sm">
         <p>Tanam TOGA di rumah untuk kesehatan keluarga secara alami.</p>
       </div>

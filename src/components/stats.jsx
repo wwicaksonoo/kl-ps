@@ -8,7 +8,7 @@ export default function Stats() {
   });
 
   return (
-    <section ref={ref} className="bg-transparent text-teal-900 py-42" data-aos="fade-up">
+    <section ref={ref} className="bg-transparent text-teal-900 py-12" data-aos="fade-up">
       <div className="max-w-6xl mx-auto grid grid-cols-3 sm:grid-cols-3 px-4 gap-8 text-center">
 
   

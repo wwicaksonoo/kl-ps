@@ -1,6 +1,7 @@
 export default function Potential() {
   const masalah = [
     "Maraknya judi online di kalangan warga desa.",
+    "Penggunaan internet dan teknologi yang kurang optimal.",
 
   
   ];
@@ -10,6 +11,8 @@ export default function Potential() {
     "Budaya yang masih kental di kalangan masyarakat lokal.",
     "Warga memiliki antusiasme tinggi untuk kegiatan sosial dan pembangunan.",
     "Produk unggulan seperti kerupuk rajang pati aci.",
+    "Potensi wisata seperti puncak mbabak.",
+
   ];
 
   return (

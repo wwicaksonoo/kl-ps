@@ -5,10 +5,6 @@ export default function Umkm() {
         Usaha Mikro Kecil Menengah 
       </h1>
 
-      {/* <p className="text-gray-600 text-center mt-2 mb-10">
-        Berikut UMKM unggulan Desa kami.
-      </p> */}
-
 
       <div className="bg-white shadow-lg rounded-2xl p-6 md:p-8">
         <h2 className="text-2xl md:text-3xl font-semibold text-teal-700">

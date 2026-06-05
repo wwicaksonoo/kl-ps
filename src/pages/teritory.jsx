@@ -21,7 +21,7 @@ export default function Teritory() {
         Peta persebaran padukuhan di Kalurahan Pundungsari.
       </p>
 
-      {/* MAP */}
+      
       <div className="relative w-full h-[450px] rounded-xl overflow-hidden shadow-lg mx-auto max-w-4xl">
         
         <div
@@ -31,7 +31,7 @@ export default function Teritory() {
 
         <div className="absolute inset-0 bg-white/10 backdrop-blur-[1px]"></div>
 
-        {/* DUSUN POINTS */}
+      
         <div className="absolute inset-0">
           {dusunList.map((d, i) => (
             <div
@@ -48,7 +48,7 @@ export default function Teritory() {
         </div>
       </div>
 
-      {/* LIST */}
+    
       <div className="mt-10 max-w-md mx-auto">
         <h2 className="text-xl font-semibold text-teal-800 mb-2">
           Daftar Nama Padukuhan

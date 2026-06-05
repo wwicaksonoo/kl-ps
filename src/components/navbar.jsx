@@ -11,7 +11,7 @@ export default function Navbar() {
         Kalurahan Pundungsari</span>
       </div>
 
-      <button className="text-2xl hidden sm:block p-4">&#9776;</button>
+      {/* <button className="text-2xl hidden sm:block p-4">&#9776;</button> */}
 
     </nav>
   );

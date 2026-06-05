@@ -118,7 +118,7 @@ export default function MediaCarouselSmooth({ images = [], interval = 3500 }) {
           style={{ width: 260, height: 170 }}
         />
 
-        {/* Optional prev / next buttons */}
+        
         <button
           aria-label="prev"
           onClick={() => setIndex((i) => (i - 1 + images.length) % images.length)}
@@ -135,7 +135,7 @@ export default function MediaCarouselSmooth({ images = [], interval = 3500 }) {
         </button>
       </div>
 
-   {/* hape */}
+  
 <div className="md:hidden w-full overflow-hidden relative">
   <AnimatePresence initial={false} mode="wait">
     <motion.img
